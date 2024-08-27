@@ -17,6 +17,45 @@ export const homepageText = `
   1st place 60%
   2nd place 30%
   3rd place 10%</p>
+
+<hr />
+
+<B>Key Points Regarding Keepers:</B>
+1. Players can be kept one round earlier than the round they were drafted in the year before. Each year the round that the player may be kept will decrease by one. Players not drafted and claimed off waivers may be kept in round 11 the next
+year. Players that are drafted, then dropped, then claimed of waivers must be kept one round less than where they were originally drafted.
+
+2. If you would like to keep 2 players in the same round, one player must be bumped up to an earlier round. If you aquire an appropriate draft pick through a trade this can be avoided.
+
+3. If you keep 2 players in the same round and you do not have draft picks to bump one up a round(s), you must spend two draft picks from consecutive rounds after the round in which the player was supposed to be kept.
+
+4. If 3 players are to be kept this way, four consecutive draft picks after the round in which the players were supposed to be kept must be used. Increase by two consecutive picks for each additional player. (Example: To keep three 1st round keepers, you would spend picks 1 thru 5)
+
+<b>FAQ</B>
+
+If someone wants to keep two 1st round guys and one 3rd round guy, how many picks will they lose?
+Answer: The two 1st round guys take picks 1, 2, and 3. The 3rd round guy bumps to 1st round and takes picks 4 and 5. They can then pick as normal in round 6.
+
+What is the worst case scenario when 5 first round keepers are kept?
+Answer: 1st player takes Round 1 pick, 2nd player takes Round 2 & 3 pick, 3rd player takes round 4 & 5 pick, 4th player takes Round 6 & 7 pick, and 5th player takes Round 8 & 9 pick. So the Fantasy Manager loses picks 6-9 basically.
+
+What happens if 3 first rounders are kept and you’ve traded away your 5th round pick?
+Answer: Don’t do that. Trade for a 5th round pick, or don’t keep the three first rounders.
+ 
+Check each players history regarding round they were drafted in last year on the draft board. This can be deceiving though, as it doesn't account for temporary bumps which I will list below. 
+
+<img src="/static/2024 Round Bumps.png" alt="2024 round bumps">
+
+<b>New Rule:</B>
+In order to make things less confusing in future years, I am going to make the up bumps permanent starting this year. This will make the transaction history of each player accurate and require less excel work to keep track of temporary bumps going forward. 
+
+Down bumps (ex. Keeping multiple 1st rounders) will not be permanent and I will still keep track of those manually.
+ 
+Players that were bumped:
+These players will not show the correct round information in Sleeper, either because they were bumped down and owner paid the penalty last year, or they were bumed up on last years draft board because someone kept two 6th rounders for exa
+
+
+
+
 `;
 
 /*   STEP 3   */
