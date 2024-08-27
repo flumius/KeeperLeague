@@ -23,7 +23,7 @@
         margin: 8em auto 10em;
     }
 
-
+</style>
 </div>
 
 
