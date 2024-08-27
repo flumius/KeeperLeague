@@ -45,7 +45,7 @@ Answer: Don’t do that. Trade for a 5th round pick, or don’t keep the three f
 <p>
 Check each players history regarding round they were drafted in last year on the draft board. This can be deceiving though, as it doesn't account for temporary bumps which I will list below. 
 
-<img src="/static/2024_Round_Bumps.png" alt="2024 round bumps">
+<img src="static/2024 Round Bumps.png" alt="2024 round bumps"> 
 </p>
 <p>
 <b>New Rule:</B>
